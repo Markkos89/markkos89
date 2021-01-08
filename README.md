@@ -2,11 +2,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-markkos89@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:markkos89@gmail.com)](mailto:markkos89@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcosiglesias-705a3256/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcosiglesias-705a3256//)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcosiglesias-705a3256//) [![Github Badge](https://img.shields.io/badge/-markkos89-grey?style=flat&logo=github&logoColor=white&link=https://github.com/markkos89/)](https://www.github.com/markkos89/) [![Twitter Badge](https://img.shields.io/badge/-markkos89-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/markkos89/)](https://www.twitter.com/markkos89/) 
 
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Javascript Fullstack Developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markkos89" alt="markkos89" /> </p>
 
-- 🔭 I’m currently working on [the Municipalidad of San Nicolas de los Arroyos, and also as a CTO in Sentate](www.sentate.com.ar)
+- 🔭 I’m currently working on [the Municipalidad of San Nicolas de los Arroyos](https://www.sannicolasciudad.gob.ar/)
 
 - 💬 Ask me about **Javascript, Node.js, React.js, Redux, Hooks...**
 
