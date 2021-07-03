@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markkos89" alt="markkos89" /> </p>
 
-- 🔭 I’m currently working on [XmartLabs](https://www.xmartlabs.com/)
+- 🔭 I’m currently working on [SpiritSwap](https://www.spiritswap.finance/) leading several projects. SpiritSwap is a DEX built on the FANTOM network.
 
 - 💬 Ask me about **Javascript, Node.js, React.js, Redux, Hooks...**
 
