@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markkos89" alt="markkos89" /> </p>
 
-- 🔭 I love building thing, find solutions, and I try to always learn. 
+- 🔭 I love building things, find solutions, and I always try to keep learning everyday. 
 
 - 🚀 Everyday is a new chance to do things better than yesterday 💫
 
-- 💬 Ask me about **Javascript, Node.js, React.js, Redux, Hooks...**
+- 💬 Ask me about **Javascript, Node.js, React.js, Redux, Hooks, Typescript...** and now you can also ask me about **Serverless, AWS, and a little bit about Web3**
 
 - 📫 How to reach me **markkos89@gmail.com**
 
