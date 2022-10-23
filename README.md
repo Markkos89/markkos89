@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markkos89" alt="markkos89" /> </p>
 
-- 🔭 I’m currently working on [DinoCloud](https://dinocloud.co/).
+- 🔭 I love building thing, find solutions, and I try to always learn. 
+
+- 🚀 Everyday is a new chance to do things better than yesterday 💫
 
 - 💬 Ask me about **Javascript, Node.js, React.js, Redux, Hooks...**
 
